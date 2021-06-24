@@ -1,0 +1,10 @@
+activation: tanh
+batch_size: 128
+drop_out_ratio: 0.2
+epochs: 10
+h_l_unit: 128
+hidden_layer_count: 3
+l1: 0.001
+l2: 0.001
+loss: mse
+lr: 0.001
