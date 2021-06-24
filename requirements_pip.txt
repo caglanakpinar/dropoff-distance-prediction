@@ -3,6 +3,7 @@ numpy
 pygeohash
 display
 matplotlib
+chart-studio
 plotly
 datetime
 scipy
